@@ -44,9 +44,7 @@
   <tr border="none">
     <td width="25%" align="center">
       <p align="center">
-        <a href="" title="Go to Source">
-          <img align="center" width="100%" src="https://raw.githubusercontent.com/cortaza123/Animalia.jpg" alt="VIDEO" />
-        </a>
+          <img align="center" width="100%" src="https://github.com/cortaza123/cortaza123/Animalia.jpg" alt="VIDEO" />
       </p>
       <p align="center">
         <a href="https://github.com/cortaza123/AnimaliaV2-master" target="blank">
