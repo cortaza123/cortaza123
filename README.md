@@ -39,7 +39,7 @@
 <!--   =============================   PROYECTOS A MOSTRAR =============================   -->
 <div id="proyectos">
   <h2>Algunos proyectos👨🏻‍💻</h2>
-  <table align="center" style="width:100%;">
+  <table align="left" style="width:100%;">
     <tr>
       <td align="center">
         <img align="center" src="https://github.com/cortaza123/cortaza123/blob/main/Animalia.jpg" alt="Proyecto Animalia" style="width:30%;">
@@ -51,8 +51,6 @@
     </tr>
   </table>
 </div>
-
-<br><br><br>
 <div>
   <br><br>
 </div>
