@@ -39,9 +39,9 @@
 <!--   =============================   PROYECTOS A MOSTRAR =============================   -->
 <div id="proyectos">
   <h2>Algunos proyectos👨🏻‍💻</h2>
-  <table align="left" style="width:100%;">
+  <table align="center" style="width:100%;">
     <tr>
-      <td align="center">
+      <td align="left">
         <img align="center" src="https://github.com/cortaza123/cortaza123/blob/main/Animalia.jpg" alt="Proyecto Animalia" style="width:30%;">
         <p><a href="https://github.com/cortaza123/AnimaliaV2-master" target="blank">
           <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
@@ -52,7 +52,7 @@
   </table>
 </div>
 <div>
-  <br><br>
+  <br><br>  <br><br>
 </div>
 
 <!--   =============================   ESTADISTICAS =============================  -->
