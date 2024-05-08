@@ -38,23 +38,20 @@
 
 <!--   =============================   PROYECTOS A MOSTRAR =============================   -->
 <div id="proyectos">
-<h2>Algunos proyectos👨🏻‍💻</h2>
-
-<table align="left">
-  <tr border="none">
-    <td width="25%" align="center">
-      <p align="center">
-          <img align="center" width="50%" src="https://github.com/cortaza123/cortaza123/blob/main/Animalia.jpg" alt="VIDEO" />
-      </p>
-      <p align="center">
-        <a href="https://github.com/cortaza123/AnimaliaV2-master" target="blank">
+  <h2>Algunos proyectos👨🏻‍💻</h2>
+  <table align="center" style="width:100%;">
+    <tr>
+      <td align="center">
+        <img align="center" src="https://github.com/cortaza123/cortaza123/blob/main/Animalia.jpg" alt="Proyecto Animalia" style="width:30%;">
+        <p><a href="https://github.com/cortaza123/AnimaliaV2-master" target="blank">
           <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-        </a>
-      </p>
-    </td>
-  </tr>
-</table>
+        </a></p>
+      </td>
+      <!-- Agregar más proyectos aquí -->
+    </tr>
+  </table>
 </div>
+
 <br><br><br>
 <div>
   <br><br>
