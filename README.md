@@ -15,9 +15,9 @@
 <h2>About Me 😃</h2>
 <!--  =============================   INTRODUCTION  =============================   -->
 <p align="left">
-  🎓 I am currently a <strong>SYSTEMS ENGINEERING</strong> student, en busca de una oportunidad de trabajo o prácticas.
+  🎓 I am currently a <strong>SYSTEMS ENGINEERING</strong> student, looking for a job or internship opportunity.
   <br><br>
-  📚 En este momento aprendiendo Angular y TypeScript.
+  📚 Right now I'm learning Angular and TypeScript.
   <br><br>
   💻 As a junior developer, I have experience in languages like C# and Angular, as well as platforms .NET and .NET Core. I also have knowledge in databases like MySQL, SQL Server, and MongoDB.
   <br><br>
