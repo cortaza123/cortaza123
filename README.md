@@ -19,6 +19,8 @@
   <br><br>
   📚 Right now I'm learning Angular and TypeScript.
   <br><br>
+  👨‍💻 Todos mis proyectos están disponibles en dar click <--{Mi-Portafolia}-->
+   <br><br>
   💻 As a junior developer, I have experience in languages like C# and Angular, as well as platforms .NET and .NET Core. I also have knowledge in databases like MySQL, SQL Server, and MongoDB.
   <br><br>
   🎨 I possess knowledge in Front-end technologies, using JavaScript and CSS.
