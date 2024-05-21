@@ -15,7 +15,9 @@
 <h2>About Me 😃</h2>
 <!--  =============================   INTRODUCTION  =============================   -->
 <p align="left">
-  🎓 Currently a student of SYSTEMS ENGINEERING.
+  🎓 Currently a student of <strong>SYSTEMS ENGINEERING</strong>, en busca de una oportunidad de trabajo o prácticas.
+  <br><br>
+  📚 En este momento aprendiendo Angular y TypeScript.
   <br><br>
   💻 As a junior developer, I have experience in languages like C# and Angular, as well as platforms .NET and .NET Core. I also have knowledge in databases like MySQL, SQL Server, and MongoDB.
   <br><br>
