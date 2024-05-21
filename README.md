@@ -15,7 +15,7 @@
 <h2>About Me 😃</h2>
 <!--  =============================   INTRODUCTION  =============================   -->
 <p align="left">
-  🎓 Currently a student of <strong>SYSTEMS ENGINEERING</strong>, en busca de una oportunidad de trabajo o prácticas.
+  🎓 I am currently a <strong>SYSTEMS ENGINEERING</strong> student, en busca de una oportunidad de trabajo o prácticas.
   <br><br>
   📚 En este momento aprendiendo Angular y TypeScript.
   <br><br>
